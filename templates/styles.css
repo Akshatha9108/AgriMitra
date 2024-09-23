@@ -1,0 +1,7 @@
+/* Style for the logo */
+.logo {
+    width: 150px;  /* Adjust the width to fit your design */
+    height: auto;  /* Keep the aspect ratio */
+    display: block;
+    margin: 20px auto; /* Centers the logo */
+}
